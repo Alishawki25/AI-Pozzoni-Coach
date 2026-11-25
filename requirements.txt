@@ -1,0 +1,7 @@
+fastapi==0.135.3
+uvicorn==0.42.0
+python-multipart==0.0.22
+opencv-python==4.13.0.92
+mediapipe==0.10.5
+numpy==2.4.3
+fpdf==1.7.2

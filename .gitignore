@@ -1,0 +1,34 @@
+# Packaged Windows app (distributed as a GitHub Release, not in git)
+AI_Pozzoni_Coach/
+
+# Build output
+build/
+dist/
+*.spec
+
+# Dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Runtime files created by the analyzer
+temp_video.mp4
+elbow_snap.jpg
+knee_snap.jpg
+AI_Pozzoni_Report.pdf
+
+# Secrets and local settings
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Empty placeholder (replaced by README.md)
+Manual and Guide.txt
